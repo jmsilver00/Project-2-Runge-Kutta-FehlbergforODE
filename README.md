@@ -9,3 +9,7 @@ To run:
 -Run the program to view results
 
 -Make console is in fullscreen once the output is show to show the table in proper format
+
+Results should look like:
+
+![RKFman](https://user-images.githubusercontent.com/85852238/193514743-14ff9b6b-efb8-4561-98ec-fc32b60912b2.jpg)
